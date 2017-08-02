@@ -33,8 +33,3 @@ body {
   color: #FFFFFF;
   font-size: 7.1rem;
 }
-
-
-.image-container {
-	
-}
